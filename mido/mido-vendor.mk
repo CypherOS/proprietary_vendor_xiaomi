@@ -1125,5 +1125,4 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne \
     qcnvitems \
     qcrilhook \
-    qti-telephony-common \
-    telephony-ext
+    qti-telephony-common
