@@ -1555,4 +1555,5 @@ PRODUCT_PACKAGES += \
     TimeService \
     colorservice \
     com.qti.snapdragon.sdk.display \
-    qcrilhook
+    qcrilhook \
+    chargeonlymode
